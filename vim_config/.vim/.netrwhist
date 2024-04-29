@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/tmp/nvboard/example/constr'
+let g:netrw_dirhist_6='/tmp/nvboard'
+let g:netrw_dirhist_5='/home/bourne/ysyx-workbench/am-kernels/tests/kilb-test/src/tests'
+let g:netrw_dirhist_4='/home/bourne/ysyx-workbench/am-kernels/tests/klib-tests/include'
+let g:netrw_dirhist_3='/home/bourne/rt-thread-am/bsp/abstract-machine/src'
+let g:netrw_dirhist_2='/home/bourne/ysyx-workbench/abstract-machine/klib/src'
+let g:netrw_dirhist_1='/home/bourne/ysyx-workbench/nemu/src/isa/riscv32'
+let g:netrw_dirhist_0='/home/bourne/ysyx-workbench/npc/csrc/monitor'
+let g:netrw_dirhist_9='/home/bourne/ysyx-workbench/npc/vsrc'
+let g:netrw_dirhist_8='/home/bourne/ysyx-workbench/npc/csrc'
