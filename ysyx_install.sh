@@ -2,7 +2,8 @@
 
 # install tool
 sudo apt-get update
-sudo apt-get install build-essential man gcc-doc gdb git libreadline-dev libsdl2-dev llvm llvm-dev
+sudo apt-get install build-essential man gcc-doc gdb git libreadline-dev libsdl2-dev llvm llvm-dev 
+sudo apt-get install clang-format
 # configuring vim
 sudo cp -r vim_config/.vim ~/.vim
 sudo cp -r vim_config/.vimrc ~/.vimrc
